@@ -31,7 +31,7 @@ For the purpose above we have defined, as part of our design, two incremental mo
 ## Running the Project
 
 ### Pre-requisites
-* Access to a Teradata Vantage Instance. You can provision one for free at [ClearScape Analytics Experience.](https://clearscape.teradata.com/sign-in)
+* Access to a Teradata Vantage Instance. You can provision one for free at [ClearScape Analytics Experience.](https://clearscape.teradata.com/sign-in?utm_source=github&utm_medium=readme&utm_campaign=advanced_dbt)
 * Your favorite database client.
 * Python 3.9 or above (recommended).
 
